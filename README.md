@@ -1,4 +1,4 @@
-## Data Analytics Virtual Internship Tasks
+# Data Analytics Virtual Internship Tasks
 
 ### Overview:
 This repository documents my experience and learnings from the Data Analytics Virtual Internship with Accenture, completed in March-April. Throughout the internship, I gained hands-on experience in various aspects of data analytics, including presenting to clients, data visualization, storytelling, data cleaning, modeling, project understanding, and more.
