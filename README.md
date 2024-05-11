@@ -31,6 +31,7 @@ This internship provided valuable insights into real-world data analytics proces
 - Project Understanding:- Documents outlining project objectives, scope, and understanding.
 - Miscellaneous:- Additional materials, resources, and reflections on the internship experience.
 
+## Presentation Vedio :-
 https://github.com/MyProjects-5/Accenture-Data_Analytics-Virtual_Internship_Tasks/assets/140932670/5d883c81-3fea-4e52-b2ef-b55b91f1fdfa
 
 # Internship Certificate From Accenture :-
